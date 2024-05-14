@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Astha raman
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning full stack development using HTML & CSS(Bootstrap3) for frontend, PHP(Backend) and MySql(Database)
-- 💞️ I’m good at C, JAVA And DSA
+- 🌱 I’m currently learning full stack development using HTML & CSS(Bootstrap3) for frontend, PHP(Backend) and MySql(Database) and Learning MERN Stack
+- 💞️ I’m good at C, C++ & JAVA(Basics)with DSA
 - 📫 How to reach me:-https://github.com/astharaman1709/astharaman1709/
 
 <!---
